@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto de Vida - Kenneth Alexander Mérida Gutiérrez</title>
+    <style>
+        /* Estilos generales */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(45deg, #1c1c1c, #333333);
+            color: #f1f1f1;
+        }
+
+        /* Encabezado */
+        header {
+            background-color: #121212;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 3rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: #ff5722; /* Un tono más oscuro de naranja */
+        }
+
+        /* Estilo de las secciones */
+        section {
+            padding: 2rem;
+            margin: 2rem 0;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+        h2 {
+            font-size: 2.5rem;
+            color: #ff5722; /* Un tono más oscuro de naranja */
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        h3 {
+            color: #ff9800;
+            font-size: 1.8rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .content {
+            background-color: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 1.5rem;
+        }
+
+        p, ul {
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        li {
+            margin-bottom: 0.6rem;
+        }
+
+        /* Estilo para enlaces */
+        a {
+            color: #ff5722; /* Un tono más oscuro de naranja */
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Pie de página */
+        footer {
+            background-color: #121212;
+            text-align: center;
+            padding: 1rem;
+            color: #f1f1f1;
+            font-size: 1rem;
+        }
+
+        /* Responsividad */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            .content {
+                padding: 15px;
+            }
+
+            section {
+                margin: 1rem 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Proyecto de Vida - Kenneth Alexander Mérida Gutiérrez</h1>
+    </header>
+
+    <section>
+        <h2>Mi nombre es Kenneth Alexander Mérida Gutiérrez</h2>
+        <div class="content">
+            <p>Este es mi proyecto de vida. En él he compartido mis sueños, mis metas, lo que me mueve a seguir adelante y cómo planeo construir el futuro que quiero. Aquí encontrarán las secciones claves que guían mi camino.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Visión</h2>
+        <div class="content">
+            <p>Mi visión es ser una persona realizada, en constante crecimiento.Ser un ingeniero en sistemas y en lo emocional me veo muy feliz compartiendo con mis amigos, mi familia y pasandola bien y siendo recto en los caminos de Dios.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Misión</h2>
+        <div class="content">
+            <p>Mi misión es vivir con propósito y hacer de cada día una oportunidad para aprender y mejorar. Quiero ser una persona que no se conforma, que siempre está buscando maneras de innovar y desafiarse. El compromiso con mi propio crecimiento y con los demás es lo que me lleva a seguir adelante.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Metas</h2>
+        <div class="content">
+            <ul>
+                <li><strong>Corto Plazo (1-2 años):</strong>
+                    <ul>
+                        <li>Mejorar mis habilidades de comunicación y liderazgo.</li>
+                        <li>Ampliar mi red de contactos profesionales.</li>
+                        <li>Lograr un equilibrio más saludable entre mi vida personal y profesional.</li>
+                    </ul>
+                </li>
+                <li><strong>Mediano Plazo (3-5 años):</strong>
+                    <ul>
+                        <li>Asumir roles de liderazgo en mi área profesional.</li>
+                        <li>Realizar estudios avanzados y participar en proyectos que me reten.</li>
+                        <li>Generar un impacto positivo en la comunidad mediante iniciativas sociales.</li>
+                    </ul>
+                </li>
+                <li><strong>Largo Plazo (5+ años):</strong>
+                    <ul>
+                        <li>Convertirme en un referente dentro de mi industria.</li>
+                        <li>Desarrollar programas de mentoría para jóvenes profesionales.</li>
+                        <li>Lograr una estabilidad financiera que me permita disfrutar de una vida plena.</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Aliados</h2>
+        <div class="content">
+            <p>En este viaje, no estoy solo. Mis aliados son aquellos que creen en mí y en lo que puedo lograr. Esto incluye:</p>
+            <ul>
+                <li><strong>Mentores:</strong> Personas con experiencia que siempre tienen un consejo valioso.</li>
+                <li><strong>Familia:</strong> Mi apoyo incondicional, el motor que me impulsa a seguir.</li>
+                <li><strong>Redes profesionales:</strong> Aquellos con los que puedo compartir ideas y colaborar.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Valores</h2>
+        <div class="content">
+            <p>Estos son los valores que definen cada paso que doy:</p>
+            <ul>
+                <li><strong>Integridad:</strong> Actuar con honestidad y coherencia, siempre.</li>
+                <li><strong>Compromiso:</strong> Ser fiel a mis sueños y esfuerzos, aunque las cosas se pongan difíciles.</li>
+                <li><strong>Innovación:</strong> Pensar fuera de la caja y nunca conformarse con lo tradicional.</li>
+                <li><strong>Responsabilidad:</strong> Aceptar mis decisiones y aprender de cada experiencia.</li>
+                <li><strong>Respeto:</strong> Valorar y escuchar a los demás, siempre con empatía.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>FODA</h2>
+        <div class="content">
+            <h3>Fortalezas</h3>
+            <ul>
+                <li>Capacidad para adaptarme rápidamente a nuevos entornos.</li>
+                <li>Buen comunicador y líder natural en equipo.</li>
+                <li>Enfoque positivo ante los desafíos.</li>
+            </ul>
+            <h3>Oportunidades</h3>
+            <ul>
+                <li>Crecimiento de plataformas digitales que me permiten llegar a más personas.</li>
+                <li>Acceso a formaciones online que potencian mi desarrollo profesional.</li>
+                <li>Más espacios para crear redes de contacto e influencia.</li>
+            </ul>
+            <h3>Debilidades</h3>
+            <ul>
+                <li>Falta de experiencia en algunas áreas específicas.</li>
+                <li>Gestión de estrés en situaciones de alta presión.</li>
+            </ul>
+            <h3>Amenazas</h3>
+            <ul>
+                <li>Competencia creciente en el mercado laboral.</li>
+                <li>Rápidos cambios tecnológicos que pueden desactualizar mis conocimientos.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Estrategias</h2>
+        <div class="content">
+            <ul>
+                <li><strong>Capacitación continua:</strong> Mantenerme actualizado con nuevas herramientas y conocimientos en mi campo.</li>
+                <li><strong>Expandir redes:</strong> Participar en eventos y colaborar con personas clave que puedan abrir nuevas oportunidades.</li>
+                <li><strong>Cuidado personal:</strong> Implementar hábitos que mejoren mi bienestar físico y emocional.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Conclusión</h2>
+        <div class="content">
+            <p>Este proyecto de vida es mi mapa para lograr todo lo que me propongo. Sé que no será fácil, pero estoy dispuesto a dar lo mejor de mí. Cada uno de estos elementos es una guía que me ayudará a mantenerme enfocado y seguir evolucionando como persona y profesional. Estoy listo para caminar este camino con pasión y determinación.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Mi nombre es Kenneth Alexander Mérida Gutiérrez</h2>
+        <div class="content">
+            <p>Este es el final de mi proyecto de vida, pero el comienzo de un camino lleno de aprendizajes, retos y grandes logros. Gracias por tomarte el tiempo de leerlo.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Kenneth Alexander Mérida Gutiérrez - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
